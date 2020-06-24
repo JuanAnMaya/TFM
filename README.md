@@ -12,7 +12,7 @@
 
 # Guía del código
 
--> 1. Preparación del código: Partiendo de los conjuntos de datos iniciales, se realizan todos
+-> 1. Preparación del dataset: Partiendo de los conjuntos de datos iniciales, se realizan todos
       los cambios pertinentes para que los datos sean aptos para el objetivo del trabajo.
 
 -> 2. Ejecución del método TIRM. Creación de los diferentes grafos. Usando todos los datos de 
